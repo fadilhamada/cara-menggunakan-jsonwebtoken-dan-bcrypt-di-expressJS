@@ -1,0 +1,9 @@
+npm init -y
+npm i express
+npm i nodemon
+npm i prisma
+npm i @prisma/client
+npx prisma init --datasource-provider mysql
+npm i bcrypt
+npm i jsonwebtoken
+npm i dotenv
